@@ -1,4 +1,4 @@
-''' Write a program that will draw a square 5 times, multiplying in size each time'''
+''' Write a program that will draw a square 10 times, multiplying in size and line thickness each time'''
 
 import turtle
 

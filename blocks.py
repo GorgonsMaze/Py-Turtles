@@ -1,4 +1,4 @@
-'''Use the drawsquare function we wrote in this chapter in a program to draw the image shown below. Assume each side is 20 units.'''
+'''Write a function drawSquare that will draw 6 square blocks in a row from left to right. Assume each side is 20 units.'''
 
 import turtle
 
