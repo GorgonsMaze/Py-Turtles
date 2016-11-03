@@ -17,3 +17,6 @@ Using the `turtle` module try to draw the following
 
 ![Image](http://i.imgur.com/lAuKX9w.png)
 
+[Problem IV](https://github.com/GorgonsMaze/Py-Turtles/blob/master/five-stars.py "Draw 5 point star using stars") `five-stars.py`
+
+![Image](http://i.imgur.com/XmnjfJo.png)
