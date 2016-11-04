@@ -1,6 +1,5 @@
 import turtle
 
-
 def drawSquare(t, n, sz):
     for i in range(4):
         t.left(90)
