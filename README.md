@@ -90,7 +90,7 @@ Draw this pattern
 
 [Problem VII](https://github.com/GorgonsMaze/Py-Turtles/blob/master/negative-chart.py.py "Draw a graph chart") `negative-chart.py.py`
 
-![](http://im2.ezgif.com/tmp/ezgif-3035895268.gif)
+![](http://i.imgur.com/yntExsz.gif)
 
 -----
 
