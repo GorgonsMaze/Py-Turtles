@@ -78,13 +78,21 @@ Using the `turtle` module try to draw the following [\[Python Docs\]](https://do
 [Problem VI](https://github.com/GorgonsMaze/Py-Turtles/blob/master/wagonwheel.py "Draw this pattern using only a 4-squares") `wagonwheel.py`
 
 Using a 4-square 
+
 ![Image](http://i.imgur.com/InH6Xk0.png?1)
 
 Draw this pattern
+
 ![Image](http://i.imgur.com/IuNWf3w.png)
 
 -----
 
+
+[Problem VII](https://github.com/GorgonsMaze/Py-Turtles/blob/master/negative-chart.py.py "Draw a graph chart") `negative-chart.py.py`
+
+![](http://i.imgur.com/yntExsz.gif)
+
+-----
 
 ## Colors
 * Coming Soon
