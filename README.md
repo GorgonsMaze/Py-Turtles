@@ -88,7 +88,7 @@ Draw this pattern
 -----
 
 
-[Problem VII](https://github.com/GorgonsMaze/Py-Turtles/blob/master/negative-chart.py.py "Draw a graph chart") `negative-chart.py.py`
+[Problem VII](https://github.com/GorgonsMaze/Py-Turtles/blob/master/negative-chart.py "Draw a graph chart") `negative-chart.py`
 
 ![](http://i.imgur.com/yntExsz.gif)
 
